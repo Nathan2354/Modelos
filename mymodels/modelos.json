@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "nome":"guilherme",
+        "idade":"16",
+        "sexo":"masculino",
+        "nacionalidade":"brasil",
+        "altura":"1.81",
+        "peso":"59"
+    },
+
+
+    {
+        "id":2,
+        "nome":"Nathan",
+        "idade":"15",
+        "sexo":"masculino",
+        "nacionalidade":"brasil",
+        "altura":"1.78",
+        "peso":"55"
+    },
+
+
+    {
+        "id":3,
+        "nome":"Guieiro",
+        "idade":"15",
+        "sexo":"Masculino",
+        "nacionalidade":"Brasil",
+        "altura":"1.80",
+        "peso":"72"
+    },
+
+
+    {
+        "id":4,
+        "nome":"Carlos",
+        "idade":"16",
+        "sexo":"masculino",
+        "nacionalidade":"brasil",
+        "altura":"1.90",
+        "peso":"89"
+    },
+
+
+    {
+        "id":5,
+        "nome":"gabriel",
+        "idade":"16",
+        "sexo":"masculino",
+        "nacionalidade":"brasil",
+        "altura":"1.80",
+        "peso":"75"
+    },
+
+
+    {
+        "id":6,
+        "nome":"gabrielli",
+        "idade":"16",
+        "sexo":"feminino",
+        "nacionalidade":"Estados Unidos",
+        "altura":"1.63",
+        "peso":"50"
+    }
+]
